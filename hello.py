@@ -1,0 +1,1 @@
+print("untracted - staged - commited - pushed")
